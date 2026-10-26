@@ -1,0 +1,6 @@
+url: https://github.com/PerryLink/dsh-phocinae
+name: PerryLink/dsh-phocinae
+category: tools
+description:
+  en: 'Local non-generative decision layer: phocinae_ask and phocinae_gate return typed verdicts with calibrated confidence from a small decision model, with fail-closed escalation.'
+  zh: '本地非生成式决策层：phocinae_ask 与 phocinae_gate 由小型决策模型返回带校准置信度的类型化裁决，并对无法回答的情况 fail-closed 升级。'
